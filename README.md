@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @yukifloresyamada
-- 👀 I’m interested in ...reading book
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in reading book.
+- 🌱 I’m currently learning to programing.
 
 <!---
 yukifloresyamada/yukifloresyamada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
